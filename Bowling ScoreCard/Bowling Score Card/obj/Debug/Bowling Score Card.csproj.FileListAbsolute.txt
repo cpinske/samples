@@ -1,0 +1,11 @@
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\bin\Debug\Bowling Score Card.exe.config
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\bin\Debug\Bowling Score Card.exe
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\bin\Debug\Bowling Score Card.pdb
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\obj\Debug\Bowling_Score_Card.Properties.Resources.resources
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\obj\Debug\Bowling Score Card.csproj.GenerateResource.cache
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\obj\Debug\Bowling Score Card.csproj.CoreCompileInputs.cache
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\obj\Debug\Bowling Score Card.exe
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\obj\Debug\Bowling Score Card.pdb
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\obj\Debug\Bowling_Score_Card.frmBowlingScoreCard.resources
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\obj\Debug\Bowling_Score_Card.Forms.frmAddPlayer.resources
+C:\Users\cpinske\Desktop\Bowling ScoreCard\Bowling Score Card\obj\Debug\Bowling Score Card.csprojAssemblyReference.cache
